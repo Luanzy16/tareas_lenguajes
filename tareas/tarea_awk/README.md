@@ -1,4 +1,8 @@
 # Programa de AWK para Graficar Funciones Matemáticas
+## Integrantes:
+Luis Sánchez
+David bermudez
+Santiago Ospina
 
 ## Descripción
 Este programa utiliza AWK para graficar funciones matemáticas en la terminal. Permite visualizar curvas de manera sencilla sin necesidad de software adicional.
